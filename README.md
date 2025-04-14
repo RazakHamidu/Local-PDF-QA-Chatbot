@@ -32,8 +32,8 @@ Le tecnologie principali utilizzate in questo progetto sono:
 
 1.  Clona il repository:
     ```bash
-    git clone <URL_DEL_TUO_REPOSITORY>
-    cd <NOME_DELLA_CARTELLA_PROGETTO>
+    git clone https://github.com/RazakHamidu/Local-PDF-QA-Chatbot.git
+    cd Local-PDF-QA-Chatbot
     ```
 2.  (Consigliato) Crea un ambiente virtuale:
     ```bash
